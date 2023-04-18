@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.div {
+    width: 500px;
+    margin: auto;
+}
+
+.square {
+    width: 500px;
+    height: 300px;
+    background-image: url(PaldeaRegion.jpeg);
+    background-size: cover;
+    margin-top: 40px;
+}
+
+h1 {
+    color: whitesmoke;
+    margin-left: 0px;
+    text-align: center;
+    font-family: 'Trade Winds', cursive;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Trade Winds', cursive;
+    font-size: 40px;
+}
